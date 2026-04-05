@@ -80,9 +80,9 @@ python test_new_image.py
 - 默认会去掉代码输出，减少 `html` 大小
 
 ### 使用方法
-1. 进入仓库目录：
+1. 进入仓库目录（如果尚未在项目根目录）：
 ```bash
-cd "D:\mrGuo\我爱的美在这里\Self-Improvement\class\CS50\deeplearning\Vehicle-Classification-Using-Machine-Learning-and-Deep-Learning-main"
+cd Vehicle-Classification-Using-Machine-Learning-and-Deep-Learning-main
 ```
 
 2. 导出单个 notebook：
