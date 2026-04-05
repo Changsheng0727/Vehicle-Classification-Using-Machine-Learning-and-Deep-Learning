@@ -52,8 +52,11 @@ venv.bak/
 ehthumbs.db
 Thumbs.db
 
-# Data files - keep test output but include model files
+# Data files - keep test output but exclude large model files
 test_output/
+*.h5
+*.weights
+*.cfg
 
 # Large datasets (exclude to keep repository size manageable)
 原始数据/
